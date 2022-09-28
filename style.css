@@ -1,0 +1,27 @@
+.container{
+    width: 24rem;
+    height: 48rem;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    position: fixed;
+    right: 2rem;
+    top: 1rem;
+}
+
+.tp{
+    position: fixed;
+    bottom: 2rem;
+    right: 2rem;
+}
+
+.TC{
+    position: absolute;
+    bottom: 6rem;
+    right: 6rem;
+    width: 16rem;
+    height: 12rem;
+}
+
+.hdr{
+    margin: 4rem;
+}
